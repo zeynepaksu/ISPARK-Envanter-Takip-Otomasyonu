@@ -1,2 +1,2 @@
 # ISPARK-Envanter-Takip-Otomasyonu
-Envanter takip otomasyonu
+C# ve MSSQL kullanarak bir envanter takip otomasyonu tasarladım.
